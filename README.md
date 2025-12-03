@@ -20,8 +20,9 @@ The service provides basic CRUD operations for managing an in-memory collection 
 
 ## Project Structure
 
-├── handlers.go # CRUD handlers
-├── routes.go # Routing for /books and /books/{id}
-├── main.go # Entry point + server setup
+.
+├── handlers.go     # CRUD handlers
+├── routes.go       # Routing for /books and /books/{id}
+├── main.go         # Entry point and server setup
 ├── go.mod
 └── go.sum
